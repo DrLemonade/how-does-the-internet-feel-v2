@@ -1,0 +1,5 @@
+celery==5.2.7
+Flask==2.3.2
+redis==4.5.5
+selenium==4.9.1
+flask_cors==3.0.10

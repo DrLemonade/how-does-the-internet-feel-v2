@@ -1,0 +1,28 @@
+.codeBackground {
+    font-size: 16px;
+    font-weight: 100;
+    font-family: "Source Code Pro", monospace;
+    background-color: #3c3e44;
+    width: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    color: #a5a8ab;
+    line-height: 25px;
+    margin-top: 12px;
+}
+
+.indentation {
+    margin-left: 20px;
+}
+
+.attribute {
+    color: #ffd044;
+}
+
+.value {
+    color: #33e9dd;
+}
+
+.white {
+    color: #cccccc;
+}

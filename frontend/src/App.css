@@ -1,0 +1,67 @@
+.header {
+    width: 100%;
+    text-align: center;
+    padding: 2%;
+    background-color: dodgerblue;
+    color: white;
+    font-weight: 800;
+    font-size: 2.5rem;
+    letter-spacing: 5px;
+}
+
+.idk {
+    color: dodgerblue;
+    font-size: 1.2rem;
+    text-align: center;
+    margin: 1rem;
+}
+
+.main {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.input {
+    font-size: 1.2rem;
+    padding: 20px 5px;
+    height: 2rem;
+    width: 50%;
+}
+
+.results {
+    width: 50%;
+    margin: 5rem auto;
+}
+
+.submit {
+    padding: 8px 10px;
+    font-size: 1rem;
+    background-color: transparent;
+    border: 1px solid black;
+    border-radius: 5px;
+    transition: all 0.1s;
+}
+
+.submit:hover {
+    cursor: pointer;
+    color: white;
+    background-color: dodgerblue;
+    border: 1px solid white;
+}
+
+.footer {
+    width: 100%;
+    text-align: center;
+    padding: 2%;
+    background-color: dodgerblue;
+    color: white;
+    font-weight: 800;
+    font-size: 1.5rem;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}

@@ -1,0 +1,21 @@
+.spinner {
+    animation: spin 1s linear infinite;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+}
+
+.warning {
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 1.2rem;
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
